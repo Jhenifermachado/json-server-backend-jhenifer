@@ -1,0 +1,21 @@
+{
+  "times": [
+    {
+      "nome": "botafogo",
+      "id": 1
+    },
+    {
+      "nome": "jjjkjk",
+      "id": 2
+    }
+  ],
+  "jogadores": [
+    {
+      "posicaoJogo": "j",
+      "anoNascimento": "j",
+      "nome": "j",
+      "timeId": 2,
+      "id": 10
+    }
+  ]
+}
